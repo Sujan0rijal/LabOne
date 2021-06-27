@@ -28,3 +28,4 @@ if totaltime_man < totaltime_bus:
     print(f'man is faster than bus')
 else:
     print(f'bus is faster than man')
+
